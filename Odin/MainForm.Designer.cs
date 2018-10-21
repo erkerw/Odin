@@ -118,11 +118,10 @@
             // 
             // ReloadPanel
             // 
-            this.ReloadPanel.AutoSize = true;
             this.ReloadPanel.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ReloadPanel.Location = new System.Drawing.Point(0, 31);
             this.ReloadPanel.Name = "ReloadPanel";
-            this.ReloadPanel.Size = new System.Drawing.Size(0, 0);
+            this.ReloadPanel.Size = new System.Drawing.Size(1342, 691);
             this.ReloadPanel.TabIndex = 1;
             // 
             // MainForm
