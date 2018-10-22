@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FlashMoulding
 {
-    public partial class UserControl1: UserControl
+    public partial class FlashMoulding: UserControl
     {
-        public UserControl1()
+        public FlashMoulding()
         {
             InitializeComponent();
         }

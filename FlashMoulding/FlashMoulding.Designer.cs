@@ -1,6 +1,6 @@
 ﻿namespace FlashMoulding
 {
-    partial class UserControl1
+    partial class FlashMoulding
     {
         /// <summary>
         /// 必需的设计器变量。

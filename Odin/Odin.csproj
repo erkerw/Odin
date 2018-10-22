@@ -86,5 +86,8 @@
     <Folder Include="公共窗体\" />
     <Folder Include="编译宏\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="大纲.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
